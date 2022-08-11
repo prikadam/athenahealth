@@ -26,8 +26,8 @@ load_dotenv()
 connection_string_mongo = os.environ['MY_CONNECTION_STRING_MONGO']
 connection_string_redis = os.environ['MY_CONNECTION_STRING_REDIS']
 
-nexmo_api_key = os.environ['NEXMO_API_KEY']
-nexmo_api_secret = os.environ['NEXMO_API_SECRET']
+nexmo_api_key = os.environ['2d1498c1']
+nexmo_api_secret = os.environ['DUu59PvPYVcmhRx7']
 
 
 
