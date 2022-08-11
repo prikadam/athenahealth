@@ -1,7 +1,5 @@
 miscellaneous/
 __pycache__/
-*celerybeat-schedule
-*background_task1.py
-*.json
+*celerybeat-schedule.db
 *startup.sh
 *.env
